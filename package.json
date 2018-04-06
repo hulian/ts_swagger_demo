@@ -9,6 +9,7 @@
   "main": "./js/app.js",
   "dependencies": {
     "@types/express": "^4.11.1",
-    "@types/swagger-express-mw": "^0.7.6"
+    "@types/swagger-express-mw": "^0.7.6",
+    "log4js": "^2.5.3"
   }
 }
