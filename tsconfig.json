@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "watch": true,
+        "target": "es5",
+        "sourceMap": true, 
+        "sourceRoot": "./ts",
+        "outDir": "./js"
+    }
+
+}
