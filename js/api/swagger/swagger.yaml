@@ -66,13 +66,13 @@ paths:
           description: Error
           schema:
             $ref: "#/definitions/ErrorResponse"
-  /testapi2:
+  /sayHello:
     # binds a127 app logic to a route
-    x-swagger-router-controller: test
+    x-swagger-router-controller: TestController
     get:
       description: 测试API2
       # used as the method name of the controller
-      operationId: testapi2
+      operationId: sayHello
       parameters:
         - name: name
           in: query

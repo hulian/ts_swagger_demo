@@ -6,7 +6,7 @@
   "keywords": [],
   "author": "",
   "license": "",
-  "main": "./js/app.js",
+  "main": "app.js",
   "dependencies": {
     "express": "^4.16.3",
     "log4js": "^2.5.3",
