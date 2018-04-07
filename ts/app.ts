@@ -1,4 +1,4 @@
-import * as  SwaggerExpress  from 'swagger-express-mw';
+import * as  SwaggerExpress  from "swagger-express-mw";
 import * as Express from "express";
 
 var app = Express();
@@ -16,5 +16,5 @@ SwaggerExpress.create(config, function(err, swaggerExpress) {
 
   var port = process.env.PORT || 10010;
   app.listen(port);
- ///
+ 
 });
