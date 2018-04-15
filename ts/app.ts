@@ -11,7 +11,7 @@ var config = {
 SwaggerExpress.create(config, function(err, swaggerExpress) {
   if (err) { throw err; }
 
-  //注册REST框架 
+  //注册REST框架
   swaggerExpress.register(app);
 
   var port = process.env.PORT || 10010;
