@@ -5,5 +5,5 @@ class TestServiceImpl implements TestService{
     }
 
 }
-var instance = new TestServiceImpl();
+let instance = new TestServiceImpl();
 export=instance;
