@@ -10,4 +10,4 @@ var TestController = /** @class */ (function () {
 }());
 var instance = new TestController();
 module.exports = instance;
-//# sourceMappingURL=TestController.js.map
+//# sourceMappingURL=/home/henry/Workspace/ts_swagger_demo/map/api/controllers/TestController.js.map

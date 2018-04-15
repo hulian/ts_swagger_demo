@@ -8,5 +8,6 @@ class TestController{
     }
 
 }
+
 var instance = new TestController();
 export=instance;

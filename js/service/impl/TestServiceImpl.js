@@ -9,4 +9,4 @@ var TestServiceImpl = /** @class */ (function () {
 }());
 var instance = new TestServiceImpl();
 module.exports = instance;
-//# sourceMappingURL=TestServiceImpl.js.map
+//# sourceMappingURL=/home/henry/Workspace/ts_swagger_demo/map/service/impl/TestServiceImpl.js.map

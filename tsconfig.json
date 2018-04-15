@@ -2,7 +2,9 @@
     "compilerOptions": {
         "watch": true,
         "target": "es5",
+        "strict": true,
         "sourceMap": true, 
+        "mapRoot": "./map",
         "sourceRoot": "./ts",
         "outDir": "./js"
     }
